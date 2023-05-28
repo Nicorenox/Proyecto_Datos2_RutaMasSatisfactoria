@@ -52,6 +52,8 @@ Python 3.11.3
 Networkx 3.1  
 Tkinter 8.6  
 
-Recuerda reemplazar `"Tu/Ruta/Al/Archivo/DatosMunicipios.csv"` con la ruta adecuada al archivo CSV que esta en 
+Recuerda reemplazar `"Tu/Ruta/Al/Archivo/DatosMunicipios.csv"` con la ruta adecuada donde instales tu archivo CSV el cual descargaras desde:  
+Enlace al archivo: [DatosMunicipios.csv](/Archivos/DatosMunicipios.csv)
+
 
 

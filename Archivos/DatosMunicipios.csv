@@ -1,0 +1,20 @@
+Municipio,Temperatura °C,Altura sobre el nivel del mar en metros,Actividades,Distancia desde Medellín (Km),Distancia desde Rionegro (Km),Distancia desde Santa Fe de Antioquia (Km),Distancia desde Barbosa (Km),Distancia desde Caldas (Km)
+Medellín,24,1495,"Turismo urbano, visitas a museos y parques, recorridos gastronómicos, entre otros.",0,33,83,18,13
+Guatapé,24,2135,"Visitar la Piedra del Peñol, paseos en bote por el embalse, disfrutar de la gastronomía local, entre otros.",79,43,144,71,53
+Santa Fe de Antioquia,24,537,"Turismo histórico, visitas a museos y sitios arqueológicos, paseos en bote por el río Cauca, entre otros.",63,92,0,67,23
+Rionegro,24,2125,"Turismo religioso, visitas a sitios históricos, recorridos gastronómicos, entre otros.",28,0,92,50,23
+Barbosa,24,1525,"Turismo de naturaleza, visitas a sitios históricos, recorridos gastronómicos, entre otros.",18,50,67,0,30
+Itagüí,24,1556,"Turismo urbano, visitas a centros comerciales y sitios culturales, entre otros.",9,38,97,22,17
+Envigado,24,1670,"Turismo urbano, visitas a parques y sitios culturales, entre otros.",10,43,93,26,19
+Cocorná,24,640,"Turismo de naturaleza, visitas a cascadas y sitios históricos, entre otros.",65,25,133,80,67
+El Peñol,24,2150,"Turismo de naturaleza, visita al Peñol de Guatapé, paseos en bote por la represa, entre otros.",79,42,149,104,58
+Sonsón,24,1525,"Turismo de naturaleza, visitas a sitios históricos y culturales, entre otros.",86,57,130,112,41
+Concepción,22,2050,"Senderismo, visitas a cascadas, turismo rural",70,115,150,95,30
+Cisneros,24,1380,"Observación de aves, paseos en bicicleta, turismo cultural",82,95,138,75,42
+Puerto Berrío,28,170,"Paseos en bote por el río Magdalena, pesca deportiva, turismo fluvial",225,245,185,140,185
+Apartadó,26,50,"Visitar el Parque Nacional Natural Paramillo, turismo gastronómico, recorridos culturales",275,295,325,280,255
+Urrao,18,2000,"Trekking en la Serranía de Las Baldías, avistamiento de aves, turismo rural",125,145,175,130,85
+Jardín,20,1700,"Visitar el Parque Natural Nacional Los Farallones, caminatas ecológicas, disfrutar del paisaje cafetero",135,-1,90,-1,-1
+Andes,18,1570,"Senderismo en el Parque Natural Regional Cerro Tusa, visitar el Parque Ecológico Piedras Blancas, explorar cuevas y cascadas",120,-1,100,-1,-1
+Sopetrán,25,625,"Recorrido por el Parque Principal y la Iglesia de San Ignacio, visita al Puente de Occidente, turismo gastronómico",45,-1,25,-1,-1
+La Ceja,22,2080,"Senderismo en el Parque Natural Regional Cerro El Padre, visita al Parque Principal y la Iglesia de Nuestra Señora del Carmen, turismo rural",35,10,-1,-1,-1

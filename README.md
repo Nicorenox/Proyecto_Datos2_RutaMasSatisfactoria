@@ -18,10 +18,10 @@ Para ejecutar este programa, asegúrate de tener instaladas las siguientes bibli
 
 Puedes instalar las bibliotecas necesarias mediante el administrador de paquetes `pip`. Ejecuta el siguiente comando:
 
-    ```bash
-    pip install networkx
-    pip install tkinter  
-    ```
+   ```bash
+   pip install networkx
+   pip install tkinter  
+   ```
 
 ## Uso
 
